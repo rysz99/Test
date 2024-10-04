@@ -1,0 +1,18 @@
+body
+{
+    background-color: #777;
+    font-size: 20px;
+}
+
+h1
+{
+    background-color: #000;
+    color: green;
+    text-align: center;
+    padding: 10px;
+}
+
+textarea
+{
+    resize: none;
+}
