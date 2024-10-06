@@ -16,3 +16,8 @@ textarea
 {
     resize: none;
 }
+
+.row
+{
+    font-size: 18px;
+}
